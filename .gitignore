@@ -32,3 +32,5 @@ multi_termo-*.tar
 npm-debug.log
 /assets/node_modules/
 /.elixir_ls
+/priv/plts/*.plt
+/priv/plts/*.plt.hash
