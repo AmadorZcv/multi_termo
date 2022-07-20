@@ -13,7 +13,7 @@ defmodule MultiTermo.DataCase do
   by setting `use MultiTermo.DataCase, async: true`, although
   this option is not recommended for other databases.
   """
-
+  # credo:disable-for-this-file
   use ExUnit.CaseTemplate
 
   using do
